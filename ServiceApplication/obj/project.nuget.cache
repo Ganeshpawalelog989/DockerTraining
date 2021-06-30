@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "79EiKRTAI1fABqdaV7SLEoh/OFm0ag2MbrklAMxpJs0H6yAmmoabSEPa2g53dEKA6uEh3sbh7RX01puW0GoCIg==",
+  "success": true,
+  "projectFilePath": "C:\\Angular\\Docker\\ClientApp\\Dockertraining\\ServiceApplication\\ServiceApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GaneshP3\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
